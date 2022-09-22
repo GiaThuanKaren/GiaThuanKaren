@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on this page. 
 - 📫 How to reach me: giathuannguyen213@gmail.com 
 
-
-[<img src='https://www.canva.com/design/DAFM93MCVbs/oWte3L5UunNUkS3SVI4hWw/view?utm_content=DAFM93MCVbs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink' alt='github' height='40'>](https://github.com/GiaThuanKaren)  
+![image](https://user-images.githubusercontent.com/86192249/191790915-e48a9982-6f33-4a75-9b1a-55c598ee1e2f.png)
+ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiaThuanKaren)](https://github.com/anuraghazra/github-readme-stats)
 
