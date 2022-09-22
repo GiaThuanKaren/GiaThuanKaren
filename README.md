@@ -1,6 +1,7 @@
 
+![engaged!](https://user-images.githubusercontent.com/86192249/191798584-2a28ccf3-2d5c-4f12-ba94-27844fa68ca2.gif)
 
-![engaged!](https://user-images.githubusercontent.com/86192249/191798419-7c34cb29-c5b7-4868-8e38-614030ed340d.svg)
+
 
 
 ### Hi there 👋, My name is Gia Thuận
