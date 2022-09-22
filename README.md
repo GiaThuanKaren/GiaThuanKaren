@@ -1,10 +1,9 @@
 ### Hi there 👋, My name is Gia Thuận
-![image](https://user-images.githubusercontent.com/86192249/191790915-e48a9982-6f33-4a75-9b1a-55c598ee1e2f.png)
 
 ![engaged!](https://user-images.githubusercontent.com/86192249/191794353-28de03b1-18a5-45ff-8c13-66cd322da018.gif)
 
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently a third year student at Sai Gon University. 
 - 📫 How to reach me: giathuannguyen213@gmail.com 
 
 
