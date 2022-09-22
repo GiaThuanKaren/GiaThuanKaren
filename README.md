@@ -1,6 +1,8 @@
 ### Hi there 👋, My name is Gia Thuận
 ![image](https://user-images.githubusercontent.com/86192249/191790915-e48a9982-6f33-4a75-9b1a-55c598ee1e2f.png)
 
+![engaged!](https://user-images.githubusercontent.com/86192249/191794153-63651233-67a1-414d-8800-453b2fb6acd6.svg)
+
 
 - 🔭 I’m currently working on this page. 
 - 📫 How to reach me: giathuannguyen213@gmail.com 
