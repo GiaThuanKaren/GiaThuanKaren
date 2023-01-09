@@ -4,11 +4,13 @@
 
 
 
-
+![323530540_693237185747473_967049560582835606_n](https://user-images.githubusercontent.com/86192249/211283093-75e8bbb2-da7a-460c-a1fd-e523309d7b01.jpg)
 
 ### Hi there 👋, My name is Gia Thuận
 - 🔭 I’m currently a third year student at Sai Gon University. 
 - 📫 How to reach me: giathuannguyen213@gmail.com 
+
+
 
 
  
