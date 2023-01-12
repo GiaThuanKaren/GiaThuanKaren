@@ -4,7 +4,8 @@
 
 
 
-![323530540_693237185747473_967049560582835606_n](https://user-images.githubusercontent.com/86192249/211283093-75e8bbb2-da7a-460c-a1fd-e523309d7b01.jpg)
+   ![image_processing20200901-6291-ztncco](https://user-images.githubusercontent.com/86192249/212119877-4eec4472-a60d-4526-8494-b1dccac7b440.gif)
+
 
 ### Hi there 👋, My name is Gia Thuận
 - 🔭 I’m currently a third year student at Sai Gon University. 
