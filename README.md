@@ -22,3 +22,7 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GiaThuanKaren)  
 
+
+
+![ezgif-2-ddd30e4226](https://user-images.githubusercontent.com/86192249/212122247-2e7815c9-3003-43fc-b196-1309c3b7367d.gif)
+
