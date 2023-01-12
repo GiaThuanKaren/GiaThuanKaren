@@ -4,7 +4,7 @@
 
 
 
-   ![image_processing20200901-6291-ztncco](https://user-images.githubusercontent.com/86192249/212119877-4eec4472-a60d-4526-8494-b1dccac7b440.gif)
+![image_processing20200901-6291-ztncco](https://user-images.githubusercontent.com/86192249/212119877-4eec4472-a60d-4526-8494-b1dccac7b440.gif)
 
 
 ### Hi there 👋, My name is Gia Thuận
