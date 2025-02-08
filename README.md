@@ -4,7 +4,7 @@
 
 
 
-![image](https://github.com/GiaThuanKaren/GiaThuanKaren/assets/86192249/61609092-720d-4829-88b3-c7668197718c)
+![image](https://dd.dexscreener.com/ds-data/tokens/abstract/0x9ebe3a824ca958e4b3da772d2065518f009cba62/header.png?size=xl&key=629241)
 
 
 
