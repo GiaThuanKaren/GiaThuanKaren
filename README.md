@@ -4,7 +4,7 @@
 
 
 
-![image](https://dd.dexscreener.com/ds-data/tokens/abstract/0x9ebe3a824ca958e4b3da772d2065518f009cba62/header.png?size=xl&key=629241)
+
 
 
 
