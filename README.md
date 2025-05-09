@@ -8,9 +8,7 @@
 
 
 
-### Hi there 👋, My name is Gia Thuận
-- 🔭 I’m currently a  year student at Sai Gon University. 
-- 📫 How to reach me: giathuannguyen213@gmail.com 
+
 
 ---
 
