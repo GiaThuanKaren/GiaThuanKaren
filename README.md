@@ -13,7 +13,7 @@
 
 <h1 align="center">Hi 👋, I'm GiaThuanKaren</h1>
 <p align="center">
-  <b>Frontend Developer & Blockchain Engineer</b><br/>
+  <b>Frontend Developer</b><br/>
   Passionate about crafting seamless web experiences and building on the decentralized future.
 </p>
 
@@ -70,14 +70,6 @@
 </table>
 
 
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiaThuanKaren&show_icons=true&theme=radical" alt="GiaThuanKaren's GitHub stats"/>
-</p>
-
----
 
 <!-- Optionally, add social/contact links here if you want in the future -->
 
