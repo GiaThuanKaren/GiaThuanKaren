@@ -8,15 +8,77 @@
 
 
 
+<!-- GiaThuanKaren | Frontend Developer & Blockchain Engineer -->
 
+
+<h1 align="center">Hi 👋, I'm GiaThuanKaren</h1>
+<p align="center">
+  <b>Frontend Developer & Blockchain Engineer</b><br/>
+  Passionate about crafting seamless web experiences and building on the decentralized future.
+</p>
 
 ---
 
-<h2>Skills and tools</h2>
+### 🚀 About Me
 
-|          Backend  |Frontend | Database | Version Control |
-|---------|------------|------------|------------|
-|<img style='margin:"0 100px"' width="40" height="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></img><img width="40" height="40" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></img><img width="40" height="40" style="background: #FFFFFF;" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></img><img width="40" height="40" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"></img><img width="40" height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></img><img width="40" height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></img>|<img width="40" height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></img><img width="40" height="40" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></img><img width="40" height="40" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></img><img width="40" height="40" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></img><img width="40" height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></img>|<img width="40" height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></img><img width="40" height="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></img><img width="40" height="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></img>|<img width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></img><img width="40" height="40" style="background: #FFFFFF;" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></img><img width="40" height="40" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"></img>|
+- 🧑‍💻 **Frontend:** Next.js, React, Tailwind CSS, SCSS, Ant Design  
+- 🔗 **Blockchain:** Solidity, Ether.js, Wagmi, Metamask, WalletConnectKit  
+- 🛠️ **Backend & APIs:** NestJS, Laravel, Swagger, Postman  
+- 💾 **Databases:** MySQL, PostgreSQL, MongoDB  
+- 🚢 **Deployment & DevOps:** Docker, Nginx  
+- 💡 Always exploring new web3 technologies & modern UI frameworks
+
+---
+
+### 🛠️ Tech Stack
+
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,scss,antd,js,ts" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend & API</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nestjs,laravel,swagger,postman" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Blockchain</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=solidity" /> 
+      <img src="https://simpleicons.org/icons/ethereum.svg" height="28" title="Ether.js" />
+      <img src="https://simpleicons.org/icons/wagmi.svg" height="28" title="Wagmi" />
+      <img src="https://tse2.mm.bing.net/th/id/OIP.nsWTmdKewsNyPGAgQ-m1CAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" height="28" title="Metamask" />
+      <img src="https://images.prismic.io/wallet-connect/65779a69531ac2845a25ec6c_WalletConnect-App-Logo-1024X1024.png?auto=format%2Ccompress&fit=max&w=2048" height="28" title="WalletConnectKit" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Deployment & DevOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,nginx" />
+    </td>
+  </tr>
+</table>
 
 
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GiaThuanKaren&show_icons=true&theme=radical" alt="GiaThuanKaren's GitHub stats"/>
+</p>
+
+---
+
+<!-- Optionally, add social/contact links here if you want in the future -->
+
+<p align="center">✨ Building the future, one block at a time! ✨</p>
