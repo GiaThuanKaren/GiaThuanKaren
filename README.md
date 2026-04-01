@@ -1,10 +1,11 @@
 
 
-![engaged5](https://user-images.githubusercontent.com/86192249/191901425-1a3119c8-4532-4c78-ac1f-776454cb7df4.gif)
 
 
 
 
+
+<img width="1920" height="1080" alt="Bản sao của Nhóm 18" src="https://github.com/user-attachments/assets/ba6549da-62f6-46a3-8d1e-32f2b22886d7" />
 
 
 
@@ -23,9 +24,10 @@
 
 - 🧑‍💻 **Frontend:** Next.js, React, Tailwind CSS, SCSS, Ant Design  
 - 🔗 **Blockchain:** Solidity, Ether.js, Wagmi, Metamask, WalletConnectKit  
-- 🛠️ **Backend & APIs:** NestJS, Laravel, Swagger, Postman  
+- 🛠️ **Backend & APIs:** NestJS, Laravel, Swagger, Postman, Messsage Queue ( Kafka, Bull Redis ), Lua Script   
 - 💾 **Databases:** MySQL, PostgreSQL, MongoDB  
-- 🚢 **Deployment & DevOps:** Docker, Nginx  
+- 🚢 **Deployment & DevOps:** Docker, Nginx,AWS
+- 🚢 **Others**: MiniO, Promox, Bash Scripts  
 - 💡 Always exploring new web3 technologies & modern UI frameworks
 
 ---
