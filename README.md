@@ -26,8 +26,8 @@
 - 🔗 **Blockchain:** Solidity, Ether.js, Wagmi, Metamask, WalletConnectKit  
 - 🛠️ **Backend & APIs:** NestJS, Laravel, Swagger, Postman, Messsage Queue ( Kafka, Bull Redis ), Lua Script   
 - 💾 **Databases:** MySQL, PostgreSQL, MongoDB  
-- 🚢 **Deployment & DevOps:** Docker, Nginx,AWS
-- 🚢 **Others**: MiniO, Promox, Bash Scripts  
+- 🚢 **Deployment & DevOps:** Docker, Nginx,AWS, Linux ( Ubuntu ) 
+- 🚢 **Others**: MiniO, Promox, Bash Scripts, Jmeter, Playwright  
 - 💡 Always exploring new web3 technologies & modern UI frameworks
 
 ---
